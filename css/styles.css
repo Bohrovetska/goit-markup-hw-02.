@@ -1,0 +1,181 @@
+
+
+.body {font-family: 'Roboto', sans-serif;}
+
+/* ul {
+    list-style: none;
+
+}*/
+/* a {
+    text-decoration: none;
+
+}*/
+.list {
+list-style: none;
+}
+.list {
+text-decoration: none;
+}
+.visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        border: 0;
+        padding: 0;
+
+        white-space: nowrap;
+        clip-path: inset(100%);
+        clip: rect(0 0 0 0);
+        overflow: hidden;
+    }
+
+.section-title span {
+    color: #2E2F42; ;
+}
+
+
+.header-logo {
+    color: #4D5AE5;;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.66;
+    letter-spacing: 0.03em;
+    text-align: left;}
+.header-logo-navyblue {
+    color:#2E2F42; ;
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.66;
+        letter-spacing: 0.03em;
+        text-align: left;
+}
+.header-menu-link {
+    color: #2E2F42;;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;}
+
+    .header-menu-link:hover,
+    .header-menu-link:focus,
+    .header-menu-link:active {
+    color: #2E2F42;
+    }
+.header-cont-iteam-link {
+    color: #434455;;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;}
+
+.hero-title{ color: #FFFFFF;
+        font-family: Roboto;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        }
+
+.hero-ord-bth {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: left;}
+.feature-iteam {
+    color: #2E2F42;;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: left;}
+    .features
+     {
+        color:#2E2F42;;
+        }
+        .features-subtitle {color:#2E2F42; ;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;}
+.feature-iteam-text {
+    color:#434455;;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;}
+
+    .team-subtitle  {
+        color#2E2F42; ;
+            font-family: Roboto;
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            text-align: center;
+    }
+
+.team-iteam-text {
+
+color:#434455;;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;}
+
+.made-subtitle { color: #2E2F42;;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: left;}
+
+.made-iteam-text {color: #434455;;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;}
+
+    .footer { background-color: #2E2F42;}
+        
+    .footer-logo { color:#4D5AE5;;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-align: left;}
+    .footer-logo-cloud {color:#F4F4FD;;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-align: left;}
+    .footer-text {font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color:#F4F4FD; ;
+        }
